@@ -7,10 +7,7 @@ package com.mycompany.factorial;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author enmanuel
- */
+
 public class Funcion {
     
     
